@@ -1,0 +1,6 @@
+data/
+*.db
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+Spotify Extended Streaming History/
